@@ -3,7 +3,7 @@
 [[package]]
 name = "ESP_PM"
 version = "1.2.0"
-description = "Python library for calculating contours of 2D quadrilateral grids"
+description = "Web app for predictive maintenance of ESP pumps"
 optional = false
 python-versions = ">=3.9"
 files = [
